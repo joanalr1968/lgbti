@@ -14,11 +14,15 @@ h1 {
 .foto {
     display: flex;
     justify-content: center;
+
 }
 
 .foto1 {
 
     width:40%;
-    -webkit-box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
-    box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+    padding: 60px;
+
 }
+
+
+body {font-family: Arial}
